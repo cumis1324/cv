@@ -2,7 +2,7 @@
   <section id="hero" class="hero-section">
     <div class="profile-picture-container">
       <img 
-        src="https://media.licdn.com/dms/image/v2/D5603AQHDaTcZYIXc6A/profile-displayphoto-shrink_800_800/B56ZebhH1kHUAg-/0/1750660841600?e=1757548800&v=beta&t=I7uNBCOkqU9dvcChNIcTg9sYmRLO19bdb1q3fu_NoK8"
+        src="https://media.licdn.com/dms/image/v2/D5603AQF8TwzFRPRkQg/profile-displayphoto-crop_800_800/B56ZllFPi2JsAI-/0/1758337498528?e=1761177600&v=beta&t=_UP8isBELhbZg0htCCsG-3hDtq-PAlygqd-UuruoOj0"
         alt="Foto Profil Hadyan Jazila Subagja"
         class="profile-picture"
       />
