@@ -3,9 +3,11 @@
     <h2 class="section-title">Tentang Saya</h2>
     <div class="card">
       <p class="paragraph">
-        Saya percaya bahwa kode terbaik adalah kode yang tak terlihat; ia menciptakan pengalaman pengguna yang mulus dan intuitif untuk memecahkan masalah di dunia nyata. Gairah inilah yang mendorong saya untuk mendalami dunia pengembangan Android, di mana saya dapat mengubah ide-ide kompleks menjadi aplikasi yang fungsional, elegan, dan bermanfaat.
+        Saya percaya bahwa kode terbaik adalah kode yang tak terlihat; ia menciptakan pengalaman pengguna yang mulus dan intuitif untuk memecahkan masalah di dunia nyata. Gairah inilah yang mendorong saya untuk mendalami dunia pengembangan Android, backend, dan web.
         <br /><br />
-        Dengan keahlian pada ekosistem Android modern, perangkat utama saya berpusat pada <strong>Kotlin</strong>, dengan penguasaan mendalam pada arsitektur modern seperti <strong>MVVM</strong> dan <strong>MVI</strong>, serta kerangka kerja <strong>Jetpack</strong> seperti <strong>Compose</strong> untuk UI deklaratif, <strong>Coroutines</strong> untuk konkurensi, dan <strong>Room</strong> untuk persistensi data. Saya terobsesi dengan kode yang bersih, dapat diuji, dan dapat dipelihara, serta selalu mencari cara untuk meningkatkan kinerja aplikasi.
+        Berpengalaman membangun aplikasi Android menggunakan <strong>Kotlin</strong> dan <strong>Jetpack</strong> (MVVM, MVI, Compose, Coroutines, Room), API backend dengan <strong>Python Flask</strong>, serta web admin panel berbasis <strong>Vue.js</strong>.
+        <br /><br />
+        Terbiasa mengembangkan REST API, integrasi database <strong>SQL Server</strong>, serta deployment aplikasi lintas platform. Menguasai <strong>Gradle</strong> untuk otomasi build dan CI/CD. Selalu berfokus pada kode yang bersih, scalable, dan mudah dipelihara.
       </p>
     </div>
   </section>

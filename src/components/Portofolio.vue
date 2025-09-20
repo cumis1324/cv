@@ -9,13 +9,50 @@
         <h3 class="portfolio-title">Profil GitHub</h3>
         <p class="portfolio-description">Jelajahi proyek kode, kontribusi, dan eksplorasi teknis saya di profil GitHub.</p>
       </a>
-      <a href="#" target="_blank" rel="noopener noreferrer" class="portfolio-card">
+      <div class="portfolio-card">
         <div class="icon-container">
-          <i class="fab fa-google-play"></i>
+          <i class="fas fa-barcode"></i>
         </div>
-        <h3 class="portfolio-title">Aplikasi di Play Store</h3>
-        <p class="portfolio-description">Lihat aplikasi yang telah saya bangun dan rilis. (Tautan ke aplikasi Anda)</p>
-      </a>
+        <h3 class="portfolio-title">BarcodeScanner</h3>
+        <p class="portfolio-description">
+          Android app untuk scan barcode berbagai format.<br>
+          <strong>Tech stack:</strong> Kotlin, Jetpack Compose, Gradle.<br>
+          <strong>Fitur:</strong> Scan barcode, UI modern, integrasi kamera.
+        </p>
+      </div>
+      <div class="portfolio-card">
+        <div class="icon-container">
+          <i class="fas fa-film"></i>
+        </div>
+        <h3 class="portfolio-title">hibaru</h3>
+        <p class="portfolio-description">
+          Aplikasi streaming film & TV berbasis Android.<br>
+          <strong>Tech stack:</strong> Kotlin, Jetpack, Firebase.<br>
+          <strong>Fitur:</strong> Streaming, TMDB API, autentikasi, UI responsif.
+        </p>
+      </div>
+      <div class="portfolio-card">
+        <div class="icon-container">
+          <i class="fas fa-server"></i>
+        </div>
+        <h3 class="portfolio-title">JBB-Panel</h3>
+        <p class="portfolio-description">
+          Web admin panel untuk packing list dan barcode.<br>
+          <strong>Tech stack:</strong> Python Flask, Vue.js, SQL Server.<br>
+          <strong>Fitur:</strong> Manajemen data, analitik produksi, autentikasi, batch data.
+        </p>
+      </div>
+      <div class="portfolio-card">
+        <div class="icon-container">
+          <i class="fas fa-network-wired"></i>
+        </div>
+        <h3 class="portfolio-title">ApiCmt</h3>
+        <p class="portfolio-description">
+          RESTful API untuk packing list dan barcode.<br>
+          <strong>Tech stack:</strong> Python Flask.<br>
+          <strong>Fitur:</strong> Batch insert/update/delete, integrasi produk, dokumentasi API.
+        </p>
+      </div>
     </div>
   </section>
 </template>

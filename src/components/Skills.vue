@@ -24,12 +24,15 @@
 const coreSkills = [
   "Kotlin", "Android SDK", "Jetpack Compose", "MVVM/MVI Architecture",
   "Coroutines", "Dagger/Hilt", "Retrofit & OkHttp", "Room Database",
-  "CI/CD", "Git", "Unit & UI Testing", "Agile Methodologies"
+  "Python", "Flask", "REST API", "SQL Server", "Gradle",
+  "Vue.js", "HTML/CSS/JS", "CI/CD", "Git", "Unit & UI Testing", "Agile Methodologies"
 ];
 const certifications = [
   { title: "Associate Android Developer", issuer: "Google" },
   { title: "Kotlin for Java Developers", issuer: "Coursera" },
   { title: "Advanced Android with Kotlin", issuer: "Udacity" },
+  { title: "Python for Everybody", issuer: "Coursera" },
+  { title: "Web Development", issuer: "Dicoding" },
 ];
 </script>
 

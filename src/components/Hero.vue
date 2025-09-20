@@ -8,8 +8,11 @@
       />
     </div>
     <h1 class="hero-title">Hadyan Jazila Subagja</h1>
-    <p class="hero-subtitle">Android Developer | <span class="gradient-text">Kotlin & Jetpack Compose</span> Specialist</p>
-    <p class="hero-description">Membangun aplikasi seluler yang skalabel dan berpusat pada pengguna, mengubah ide menjadi pengalaman Android yang menarik.</p>
+    <p class="hero-subtitle">Fullstack Developer | <span class="gradient-text">Android, Backend, Web</span></p>
+    <p class="hero-description">
+      Berpengalaman membangun aplikasi Android (Kotlin), API backend (Python Flask), dan web admin panel (Vue.js).
+      Menguasai REST API, SQL Server, Gradle, serta integrasi berbagai layanan modern.
+    </p>
     <a href="#contact" class="hero-cta-button">
       Hubungi Saya <i class="fas fa-arrow-right"></i>
     </a>

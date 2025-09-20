@@ -2,7 +2,7 @@
   <section id="contact" class="content-section">
     <h2 class="section-title">Hubungi Saya</h2>
     <div class="card">
-      <p class="contact-text">Saya terbuka untuk peluang dan kolaborasi baru. Mari terhubung.</p>
+  <p class="contact-text">Saya terbuka untuk peluang dan kolaborasi baru di bidang pengembangan Android, backend (Flask), dan web (Vue.js). Mari terhubung.</p>
       <div class="social-links">
         <a href="https://www.linkedin.com/in/hadyanjazila/" target="_blank" rel="noopener noreferrer" class="social-button">
           <i class="fab fa-linkedin"></i>

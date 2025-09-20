@@ -3,12 +3,21 @@
     <h2 class="section-title">Pengalaman & Pencapaian</h2>
     <div class="card">
       <h3 class="job-title">Android Developer</h3>
-      <p class="company-name">Gelaskaca</p>
+      <p class="company-name">BarcodeScanner & hibaru</p>
       <ul class="achievements-list">
-        <li>Memimpin refaktorisasi arsitektur aplikasi lawas (MVVM, Retrofit, Room), berhasil <strong>mengurangi tingkat kerusakan sebesar 80%</strong> dan <strong>meningkatkan rating Play Store dari 2.5 menjadi 4.2 bintang</strong>.</li>
-        <li>Mengembangkan dan meluncurkan 5+ fitur utama, yang diadopsi oleh lebih dari <strong>200.000 pengguna</strong> dalam tiga bulan pertama.</li>
-        <li>Mengoptimalkan kinerja rendering daftar dengan menerapkan DiffUtil dan Paging 3, yang <strong>mengurangi waktu muat hingga 50%</strong> pada perangkat kelas bawah.</li>
-        <li>Memprakarsai alur CI/CD menggunakan GitLab CI, <strong>mempercepat siklus rilis sebesar 40%</strong> dan mengurangi kesalahan penerapan secara signifikan.</li>
+        <li>Mengembangkan aplikasi Android untuk scan barcode dan streaming film/TV menggunakan <strong>Kotlin</strong>, <strong>Jetpack Compose</strong>, dan <strong>Gradle</strong>.</li>
+        <li>Menerapkan arsitektur MVVM, integrasi API eksternal (TMDB), serta deployment ke Play Store.</li>
+        <li>Mengoptimalkan performa aplikasi dan pengalaman pengguna.</li>
+      </ul>
+    </div>
+    <div class="card">
+      <h3 class="job-title">Backend & Web Developer</h3>
+      <p class="company-name">JBB-Panel & ApiCmt</p>
+      <ul class="achievements-list">
+        <li>Membangun RESTful API dan web admin panel menggunakan <strong>Python Flask</strong> dan <strong>Vue.js</strong>.</li>
+        <li>Mengintegrasikan database <strong>SQL Server</strong> untuk manajemen packing list dan barcode.</li>
+        <li>Menerapkan autentikasi, batch data, dan analitik produksi pada panel admin.</li>
+        <li>Mengotomasi deployment dan monitoring aplikasi backend.</li>
       </ul>
     </div>
   </section>

@@ -9,6 +9,13 @@
         </div>
         <p class="education-years">2015 - 2020</p>
       </div>
+      <div class="education-entry">
+        <div>
+          <h3 class="institution-name">Coursera, Udacity, Dicoding</h3>
+          <p class="degree-name">Kursus: Android Development, Python for Everybody, Web Development, Database Fundamentals</p>
+        </div>
+        <p class="education-years">2018 - 2024</p>
+      </div>
     </div>
   </section>
 </template>
